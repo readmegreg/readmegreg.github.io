@@ -1,0 +1,24 @@
+img:hover{
+    border-radius: 100%;
+    box-shadow: 0px 0px 20px #395B64;
+}
+
+body{
+    background-color:#B2C8DF;
+}
+
+hr{
+    width: 3%;
+    border: 5px #495C83;
+    border-style: none none dotted;
+    height: 15px;
+}
+
+h1, h2, h3{
+    color: #395B64;
+}
+
+.name{
+    font-family: "Monaco", "Courier New";
+    font-size: 48px;
+}
